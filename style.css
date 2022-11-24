@@ -1,0 +1,83 @@
+
+h1{
+    margin: 0px;
+}
+h2{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+.brandname{
+
+    position: absolute;
+    margin-top: 20px;
+    color: rgb(194, 117, 16);
+}
+.menu {
+
+    margin-left: 350px;
+    margin-top: 20px;
+    position: absolute;
+
+
+}
+.get {
+    margin-left: 900px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+.heading
+{
+    margin-top: 250px;
+    margin-left: 50px;
+    position: absolute;
+    padding-left: 100px;
+}
+.image1
+{
+margin-left: 400px;
+margin-bottom: 450px;
+margin-top: 20px;
+
+}
+.box
+{
+    width: 300px;
+    height: 250px;
+    background-color: beige;
+    border-radius: 10px;
+    border: 2px black;
+margin-top: 400px;
+margin-left: 350px;
+margin-bottom: 40px;
+position: absolute;
+padding-left: 40px;
+padding-bottom: 40px;
+padding-top: 20px;
+}
+.box4
+{
+    background-color: black;
+    color: white;
+}
+.jc
+{
+    padding-right: 100px;
+    margin-bottom: 300px;
+}
+.box5
+{
+    background-color: black;
+    color: white;
+}
+#jc{
+    position: relative
+margin-left 50px;
+    
+}
+body{
+    background-color: blanchedalmond;
+}
